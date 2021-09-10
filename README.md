@@ -1,5 +1,5 @@
 # hh-vacancy-parser
-Service for searching and parsing vacancies from the HH.ru
+Service for searching and parsing vacancies from the HH.ru.
 
 HTML + Java + Jsoup
 
